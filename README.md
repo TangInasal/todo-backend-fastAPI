@@ -5,17 +5,23 @@
 ## Setup installaion
 
 #### Clone repository
-'git clone https://github.com/TangInasal/todo-backend-fastAPI.git'
-
+```bash
+git clone https://github.com/TangInasal/todo-backend-fastAPI.git
+```
 #### Install requirements
-'pip install -r requirements.txt'
+```bash
+pip install -r requirements.txt
+```
 
 #### Run dev server
-'uvicorn main:app --host 0.0.0.0 --port 8000'
+```bash
+uvicorn main:app --host 0.0.0.0 --port 8000
+```
 
 ---
 
 ## API Endpoints
+
 FastAPI endpoints for managing managing backend:
 
 
